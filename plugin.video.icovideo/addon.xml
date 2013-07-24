@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.icovideo" name="icovideo" version="0.0.1" provider-name="ico">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
@@ -11,4 +10,3 @@
     <description>View videos</description>
   </extension>
 </addon>
-</addons>
